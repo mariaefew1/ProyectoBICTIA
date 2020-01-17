@@ -1,0 +1,21 @@
+body{
+background-image: url(Img/imagen1.JPG);
+color:whitesmoke;
+font-family: quicksand, sans-serif;
+}
+h1{
+   color #F6F3EF;
+   text-align: center;
+   margin-top: 400px ;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+/* para botones*/
+button{
+    background-color:whitesmoke;
+    border: 2px solid chocolate;
+    color:green;
+}
